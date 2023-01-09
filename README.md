@@ -1,2 +1,2 @@
 # DancingWithDantzig
-Linear Optimization Model Solver
+(Asperational) Linear Optimization Model Solver
